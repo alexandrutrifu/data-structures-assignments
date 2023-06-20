@@ -1,14 +1,3 @@
-<style>
-mark { 
-  	background: rgba(184, 223, 150, 0.3);
-  	color: white;
-}
-code {
-  	color: #DF7857;
-}
-</style>
-
-
 # Tema 3 - SDA
 
 > <mark> *Notă*: În cazul ambelor cerințe, procesarea datelor de intrare a implicat codificarea, respectiv indexarea nodurilor-destinații transmise ca *string-uri*. </mark>
